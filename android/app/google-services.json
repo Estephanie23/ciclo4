@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282479942638",
+    "project_id": "ciclo4-c29c5",
+    "storage_bucket": "ciclo4-c29c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282479942638:android:63101dfdf0fea3c6c9ccff",
+        "android_client_info": {
+          "package_name": "com.unibosque.mintic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282479942638-fa9qhgjkarpr505k2o4096r29n85uaah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BNXQPULMxom8v0FGTH0Kz0KmXhYf_W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282479942638-fa9qhgjkarpr505k2o4096r29n85uaah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
