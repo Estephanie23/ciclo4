@@ -1,7 +1,3 @@
-# myappmovil_06
-
-aplicaión para desarrollo móvil grupo 06
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
